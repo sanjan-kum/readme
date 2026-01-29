@@ -1,4 +1,4 @@
 # readme
 ## santosh
 **one
-*** sec
+sec
